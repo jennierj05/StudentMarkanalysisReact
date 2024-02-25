@@ -1,0 +1,39 @@
+/* styles.css */
+
+/* Main container */
+.student-mark-page {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #4f856d;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading */
+.student-mark-page h1 {
+  text-align: center;
+  color: #333;
+}
+
+/* Subject list */
+.subject-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Subject item */
+.subject-item {
+  margin-bottom: 10px;
+}
+
+/* Subject name */
+.subject-name {
+  font-weight: bold;
+}
+
+/* Subject marks */
+.subject-marks {
+  color: #007bff; /* Blue color for marks */
+}
